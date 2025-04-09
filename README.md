@@ -50,3 +50,14 @@
 - ✅ [Task Manager – Full Stack App (React + Node)](https://github.com/yourusername/task-manager-app)
 - ✈️ [Skyscanner Frontend Simulation (Forage)](https://github.com/yourusername/skyscanner-frontend-sim)
 
+### 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/parshuramsingh/parshuramsingh/blob/output/github-contribution-grid-snake.svg)
+
+
+
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Parshuram%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/parshuram-singh)
+[![Gmail](https://img.shields.io/badge/Email-parshuram7714@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parshuram7714@gmail.com)
+
