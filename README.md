@@ -41,8 +41,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parshuramsingh&theme=radical&hide_border=false" height="180px" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parshuramsingh&layout=compact&theme=radical&hide_border=false" />
-</p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parshuramsingh&layout=compact&theme=radical&hide_border=false&langs_count=8&cache_buster=123" />
 
 
 ### 🐍 GitHub Contribution Snake
