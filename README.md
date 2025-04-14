@@ -60,14 +60,29 @@ I’m **Parshuram Singh**, a Front-end and Blockchain developer who thrives at t
 
 ---
 
-## 🖼️ Signature Projects
+---
 
+---
+
+---
+
+---
+
+## 🖼️ Blockchain Projects
 <p align="center">
-  <a href="https://github.com/parshuramsingh/SinghVolt-E-commerce-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parshuramsingh&repo=SinghVolt-E-commerce-App&theme=radical&show_owner=true&hide_border=true" alt="SinghVolt E-commerce" />
+  <a href="https://github.com/parshuramsingh/Blockchain_TradeFinance" title="Blockchain Trade Finance">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parshuramsingh&repo=Blockchain_TradeFinance&theme=radical&show_owner=true&hide_border=true&cache_seconds=3600&refresh=true&cache_buster=135" alt="Blockchain Trade Finance" onerror="this.src='https://raw.githubusercontent.com/parshuramsingh/parshuramsingh/master/assets/repo-placeholder.png';this.title='Repo Data Unavailable';" />
   </a>
-  <a href="https://github.com/parshuramsingh/TradeChain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parshuramsingh&repo=TradeChain&theme=radical&show_owner=true&hide_border=true" alt="TradeChain" />
+</p>
+
+- **Blockchain Trade Finance**  
+  A Hyperledger Fabric-based supply chain dApp for transparent trade finance. Includes chaincode for 8+ functions, benchmarked at 200 TPS with Caliper, and a Node.js client for seamless interaction.  
+  *Repo*: [Explore the code!](#) | *Tech*: Hyperledger Fabric, Docker, JavaScript
+
+## 🖼️ Front-end Projects
+<p align="center">
+  <a href="https://github.com/parshuramsingh/SinghVolt-E-commerce-App" title="SinghVolt E-commerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parshuramsingh&repo=SinghVolt-E-commerce-App&theme=radical&show_owner=true&hide_border=true&cache_seconds=3600&refresh=true&cache_buster=135" alt="SinghVolt E-commerce" onerror="this.src='https://raw.githubusercontent.com/parshuramsingh/parshuramsingh/master/assets/repo-placeholder.png';this.title='Repo Data Unavailable';" />
   </a>
 </p>
 
@@ -75,10 +90,8 @@ I’m **Parshuram Singh**, a Front-end and Blockchain developer who thrives at t
   A blazing-fast React-based e-commerce platform with a responsive UI, powered by Vite and TailwindCSS. Features lazy-loaded components, Context API for state management, and a live demo deployed on Vercel.  
   *Live*: [Check it out!](#) | *Tech*: React, Node.js, MongoDB
 
-- **TradeChain**  
-  A Hyperledger Fabric-based supply chain dApp for transparent trade finance. Includes chaincode for 8+ functions, benchmarked at 200 TPS with Caliper, and a Node.js client for seamless interaction.  
-  *Repo*: [Explore the code!](#) | *Tech*: Hyperledger Fabric, Docker, JavaScript
-
+---
+---
 ---
 
 ## 📈 Code Chronicles
