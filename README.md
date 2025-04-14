@@ -29,7 +29,7 @@
 ---
 
 ### 🚀 **My Craft**
-I’m a visionary developer merging sleek **Front-end** designs with robust **Blockchain** solutions, fortified by **Cybersecurity**. I wield **JavaScript**, **React.js**, **Tailwind CSS**, and **Node.js** to craft scalable web apps, while mastering **Hyperledger Fabric** smart contracts and **Java** for secure back-ends. With **Docker** and **Git**, I blend efficiency with trust, pushing the boundaries of decentralized tech.
+I’m a visionary developer merging sleek **Front-end** designs with robust **Blockchain** solutions, fortified by **Cybersecurity**. I wield **JavaScript**, **React.js**, **Tailwind CSS**, and **Node.js** to craft scalable web apps, while mastering **Hyperledger Fabric** smart contracts and **Java** for secure back-ends. With **Docker** and **Git**, I blend efficiency with trust, pushing decentralized tech boundaries.
 
 **🌐 Technical Arsenal:**  
 - 🔹 **Front-end**: <span style="color:#61DAFB">JavaScript (ES6+)</span> | <span style="color:#00D8FF">React.js</span> | <span style="color:#38B2AC">Tailwind CSS</span> | HTML | CSS  
@@ -41,7 +41,7 @@ I’m a visionary developer merging sleek **Front-end** designs with robust **Bl
 ---
 
 ### 💡 **My Journey**
-I’ve engineered blockchain marvels, like a supply chain dApp hitting **200 TPS** with **Caliper**, enhancing security and efficiency. Now, I’m diving into **Ethereum’s EVM**, **Layer-2 scaling**, and **Solidity** for cross-chain breakthroughs, weaving in **cybersecurity** to shield decentralized ecosystems.  
+I’ve engineered blockchain marvels, like a supply chain dApp hitting **200 TPS** with **Caliper**, boosting security and efficiency. Now, I’m diving into **Ethereum’s EVM**, **Layer-2 scaling**, and **Solidity** for cross-chain breakthroughs, weaving in **cybersecurity** to shield decentralized ecosystems.
 
 **🌟 Goals:** Collaborate on next-gen projects, fusing UI elegance with blockchain resilience and cyber defense.
 
@@ -52,9 +52,6 @@ I’ve engineered blockchain marvels, like a supply chain dApp hitting **200 TPS
 <div align="center">
   <img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="200" alt="Debugging Victory" />
 </div>
-
----
-
 
 ---
 
@@ -91,14 +88,6 @@ I’ve engineered blockchain marvels, like a supply chain dApp hitting **200 TPS
 
 ---
 
----
-
----
-
----
-
----
-
 ## 🖼️ Blockchain Projects
 <p align="center">
   <a href="https://github.com/parshuramsingh/Blockchain_TradeFinance" title="Blockchain Trade Finance">
@@ -121,8 +110,6 @@ I’ve engineered blockchain marvels, like a supply chain dApp hitting **200 TPS
   A blazing-fast React-based e-commerce platform with a responsive UI, powered by Vite and TailwindCSS. Features lazy-loaded components, Context API for state management, and a live demo deployed on Vercel.  
   *Live*: [Check it out!](#) | *Tech*: React, Node.js, MongoDB
 
----
----
 ---
 
 ## 📈 Code Chronicles
@@ -154,6 +141,7 @@ I’ve engineered blockchain marvels, like a supply chain dApp hitting **200 TPS
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=plastic&logo=github&logoColor=white&labelColor=333" />
   </a>
 </p>
+
 
 <p align="center">
   
