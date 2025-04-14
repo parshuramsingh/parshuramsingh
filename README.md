@@ -112,7 +112,11 @@ I’m **Parshuram Singh**, a Front-end and Blockchain developer who thrives at t
 </p>
 
 <p align="center">
-  <img src="https://github.com/parshuramsingh/parshuramsingh/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+  
+### 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/parshuramsingh/parshuramsingh/blob/output/github-contribution-grid-snake.svg)
+
 </p>
 
 ---
