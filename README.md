@@ -48,7 +48,7 @@ I’ve engineered blockchain marvels, like a supply chain dApp hitting **200 TPS
 ---
 
 ### ⚡ **My Edge**
-*Fun Fact*: I vanquished **30+ Node.js errors** in one epic night to launch *TradeChain*—proof my resolve fuels innovation!  
+*Fun Fact*: I vanquished **15+ Node.js errors** in one epic night to launch *TradeChain*—proof my resolve fuels innovation!  
 <div align="center">
   <img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="200" alt="Debugging Victory" />
 </div>
@@ -97,7 +97,7 @@ I’ve engineered blockchain marvels, like a supply chain dApp hitting **200 TPS
 
 - **Blockchain Trade Finance**  
   A Hyperledger Fabric-based supply chain dApp for transparent trade finance. Includes chaincode for 8+ functions, benchmarked at 200 TPS with Caliper, and a Node.js client for seamless interaction.  
-  *Repo*: [Explore the code!](#) | *Tech*: Hyperledger Fabric, Docker, JavaScript
+  *Tech*: Hyperledger Fabric, Docker, JavaScript
 
 ## 🖼️ Front-end Projects
 <p align="center">
@@ -107,8 +107,8 @@ I’ve engineered blockchain marvels, like a supply chain dApp hitting **200 TPS
 </p>
 
 - **SinghVolt E-commerce App**  
-  A blazing-fast React-based e-commerce platform with a responsive UI, powered by Vite and TailwindCSS. Features lazy-loaded components, Context API for state management, and a live demo deployed on Vercel.  
-  *Live*: [Check it out!](#) | *Tech*: React, Node.js, MongoDB
+  A blazing-fast React-based e-commerce platform with a responsive UI, powered by Vite and CSS. Features lazy-loaded components, Context API for state management.  
+  *Tech*: React, CSS, HTML, Javascript
 
 ---
 
