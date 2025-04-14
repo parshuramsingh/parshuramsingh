@@ -44,11 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parshuramsingh&layout=compact&theme=radical&hide_border=false" />
 </p>
 
-### 📁 Latest Projects
-
-- 🔗 [Import & Export Automation via Hyperledger Fabric](https://github.com/yourusername/blockchain-trade-automation)
-- ✅ [Task Manager – Full Stack App (React + Node)](https://github.com/yourusername/task-manager-app)
-- ✈️ [Skyscanner Frontend Simulation (Forage)](https://github.com/yourusername/skyscanner-frontend-sim)
 
 ### 🐍 GitHub Contribution Snake
 
