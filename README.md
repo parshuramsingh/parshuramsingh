@@ -14,16 +14,47 @@
 
 ## 🌌 About Me
 
-I’m **Parshuram Singh**, a Front-end and Blockchain developer who thrives at the intersection of stunning UI and secure, scalable systems. With a passion for **React.js**, **Node.js**, and **Hyperledger Fabric**, I turn complex ideas into elegant, real-world solutions. From crafting responsive interfaces with **TailwindCSS** to deploying tamper-proof smart contracts, my mission is to bridge the gap between user experience and blockchain’s promise of trust.
+---
 
-- 🔭 **Currently exploring**: Ethereum’s EVM and Layer-2 scaling for cross-chain dApps.
-- 🌱 **Learning**: Advanced Solidity patterns and Web3.js for decentralized front-ends.
-- 💼 **Building**: A supply chain dApp with Hyperledger Fabric for transparent trade finance.
-- ⚡ **Fun fact**: I debugged 30+ Node.js errors in a single night to ship my *TradeChain* project!
+## 🌌 **Parshuram Singh**  
+### 🎯 **Front-end & Blockchain Developer | Cybersecurity Trailblazer**  
+*✨ Powered by: JavaScript | React.js | Node.js | Java | Hyperledger Fabric | Smart Contracts ✨*
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parshuramsingh&style=flat-square&color=00FEEF&label=Profile+Views" alt="Profile Views" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Style-Futuristic-00FEEF?logo=dev.to&labelColor=1a1a1a" alt="Futuristic Style" />
+  <img src="https://img.shields.io/badge/Security-Encrypted-FF6F61?logo=lock&labelColor=1a1a1a" alt="Security Focus" />
+  <img src="https://img.shields.io/badge/Innovation-Blockchain-7A00D6?logo=ethereum&labelColor=1a1a1a" alt="Blockchain Innovation" />
+</div>
+
+---
+
+### 🚀 **My Craft**
+I’m a visionary developer merging sleek **Front-end** designs with robust **Blockchain** solutions, fortified by **Cybersecurity**. I wield **JavaScript**, **React.js**, **Tailwind CSS**, and **Node.js** to craft scalable web apps, while mastering **Hyperledger Fabric** smart contracts and **Java** for secure back-ends. With **Docker** and **Git**, I blend efficiency with trust, pushing the boundaries of decentralized tech.
+
+**🌐 Technical Arsenal:**  
+- 🔹 **Front-end**: <span style="color:#61DAFB">JavaScript (ES6+)</span> | <span style="color:#00D8FF">React.js</span> | <span style="color:#38B2AC">Tailwind CSS</span> | HTML | CSS  
+- 🔹 **Back-end & APIs**: <span style="color:#68A063">Node.js</span> | <span style="color:#ED8B00">REST APIs</span> | <span style="color:#FFCA28">Java</span>  
+- 🔹 **Blockchain & Security**: <span style="color:#7A00D6">Hyperledger Fabric</span> | <span style="color:#FF6F61">Smart Contracts</span> | <span style="color:#FF4500">Cybersecurity (Encryption, Audits)</span>  
+- 🔹 **Coding & Logic**: <span style="color:#F4A261">Java</span> | <span style="color:#E76F51">DSA</span> | <span style="color:#D4A017">OOPs</span>  
+- 🔹 **Tools**: <span style="color:#F05032">Git</span> | <span style="color:#181717">GitHub</span> | <span style="color:#2496ED">Docker</span>  
+
+---
+
+### 💡 **My Journey**
+I’ve engineered blockchain marvels, like a supply chain dApp hitting **200 TPS** with **Caliper**, enhancing security and efficiency. Now, I’m diving into **Ethereum’s EVM**, **Layer-2 scaling**, and **Solidity** for cross-chain breakthroughs, weaving in **cybersecurity** to shield decentralized ecosystems.  
+
+**🌟 Goals:** Collaborate on next-gen projects, fusing UI elegance with blockchain resilience and cyber defense.
+
+---
+
+### ⚡ **My Edge**
+*Fun Fact*: I vanquished **30+ Node.js errors** in one epic night to launch *TradeChain*—proof my resolve fuels innovation!  
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="200" alt="Debugging Victory" />
+</div>
+
+---
+
 
 ---
 
