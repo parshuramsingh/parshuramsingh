@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=800&color=00FEEF&center=true&vCenter=true&width=820&lines=Crafting+the+Future+of+Web+and+Blockchain;Front-end+Architect+%7C+Decentralized+Innovator;React+Sorcery+%7C+Hyperledger+Mastery;Where+Clean+UI+Meets+Secure+Smart+Contracts" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=800&color=00FEEF&center=true&vCenter=true&width=845&lines=Crafting+the+Future+of+Web+and+Blockchain;Front-end+Architect+%7C+Decentralized+Innovator;React+Sorcery+%7C+Hyperledger+Mastery;Where+Clean+UI+Meets+Secure+Smart+Contracts" alt="Typing SVG" />
 </h1>
 
 <p align="center">
