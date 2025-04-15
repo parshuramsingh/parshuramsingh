@@ -65,6 +65,8 @@ I’ve engineered blockchain marvels, like a supply chain dApp hitting **200 TPS
   <img src="https://img.shields.io/badge/Vite-5.0-646CFF?style=plastic&logo=vite&logoColor=white&labelColor=333" title="Vite" />
 </p>
 
+---
+
 ### 🔗 Blockchain Alchemy
 <p align="center">
   <img src="https://img.shields.io/badge/Hyperledger_Fabric-2.5-00588C?style=plastic&logo=hyperledger&logoColor=white&labelColor=333" title="Hyperledger Fabric" />
@@ -87,8 +89,8 @@ I’ve engineered blockchain marvels, like a supply chain dApp hitting **200 TPS
 </p>
 
 ---
-
-## 🖼️ Blockchain Projects
+## 🖼️ Signature Projects
+##  Blockchain Project
 <p align="center">
   <a href="https://github.com/parshuramsingh/Blockchain_TradeFinance" title="Blockchain Trade Finance">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=parshuramsingh&repo=Blockchain_TradeFinance&theme=radical&show_owner=true&hide_border=true&cache_seconds=3600&refresh=true&cache_buster=135" alt="Blockchain Trade Finance" onerror="this.src='https://raw.githubusercontent.com/parshuramsingh/parshuramsingh/master/assets/repo-placeholder.png';this.title='Repo Data Unavailable';" />
@@ -99,7 +101,7 @@ I’ve engineered blockchain marvels, like a supply chain dApp hitting **200 TPS
   A Hyperledger Fabric-based supply chain dApp for transparent trade finance. Includes chaincode for 8+ functions, benchmarked at 200 TPS with Caliper, and a Node.js client for seamless interaction.  
   *Tech*: Hyperledger Fabric, Docker, JavaScript
 
-## 🖼️ Front-end Projects
+##  Front-end Project
 <p align="center">
   <a href="https://github.com/parshuramsingh/SinghVolt-E-commerce-App" title="SinghVolt E-commerce">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=parshuramsingh&repo=SinghVolt-E-commerce-App&theme=radical&show_owner=true&hide_border=true&cache_seconds=3600&refresh=true&cache_buster=135" alt="SinghVolt E-commerce" onerror="this.src='https://raw.githubusercontent.com/parshuramsingh/parshuramsingh/master/assets/repo-placeholder.png';this.title='Repo Data Unavailable';" />
