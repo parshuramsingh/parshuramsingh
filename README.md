@@ -55,40 +55,6 @@ I’ve engineered blockchain marvels, like a supply chain dApp hitting **200 TPS
 
 ---
 
-## 🛠️ My Tech Arsenal
-
-### 🚀 Front-end Sorcery
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES2023-F7DF1E?style=plastic&logo=javascript&logoColor=black&labelColor=333" title="JavaScript" />
-  <img src="https://img.shields.io/badge/React-18.3-61DAFB?style=plastic&logo=react&logoColor=black&labelColor=333" title="React.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?style=plastic&logo=tailwind-css&logoColor=white&labelColor=333" title="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Vite-5.0-646CFF?style=plastic&logo=vite&logoColor=white&labelColor=333" title="Vite" />
-</p>
-
----
-
-### 🔗 Blockchain Alchemy
-<p align="center">
-  <img src="https://img.shields.io/badge/Hyperledger_Fabric-2.5-00588C?style=plastic&logo=hyperledger&logoColor=white&labelColor=333" title="Hyperledger Fabric" />
-  <img src="https://img.shields.io/badge/Smart_Contracts-Fabric_Chaincode-7A00D6?style=plastic&logo=ethereum&logoColor=white&labelColor=333" title="Smart Contracts" />
-  <img src="https://img.shields.io/badge/Caliper-Benchmarks-FF6F61?style=plastic&logo=hyperledger&logoColor=white&labelColor=333" title="Caliper" />
-</p>
-
-### 🗄️ Back-end & Beyond
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-20.x-339933?style=plastic&logo=nodedotjs&logoColor=white&labelColor=333" title="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-6.0-47A248?style=plastic&logo=mongodb&logoColor=white&labelColor=333" title="MongoDB" />
-  <img src="https://img.shields.io/badge/REST_API-OpenAPI_3.0-0066CC?style=plastic&logo=openapiinitiative&logoColor=white&labelColor=333" title="REST API" />
-</p>
-
-### 🛠️ Tools of the Trade
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-Compose_3.8-2496ED?style=plastic&logo=docker&logoColor=white&labelColor=333" title="Docker" />
-  <img src="https://img.shields.io/badge/Git-2.43-F05032?style=plastic&logo=git&logoColor=white&labelColor=333" title="Git" />
-  <img src="https://img.shields.io/badge/Java-17-ED8B00?style=plastic&logo=openjdk&logoColor=white&labelColor=333" title="Java" />
-</p>
-
----
 ## 🖼️ Signature Projects
 ##  Blockchain Project
 <p align="center">
