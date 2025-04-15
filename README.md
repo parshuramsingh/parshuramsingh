@@ -127,7 +127,15 @@ I’ve engineered blockchain marvels, like a supply chain dApp hitting **200 TPS
 </p>
 
 ---
+<p align="center">
+  
+### 🐍 GitHub Contribution Snake
 
+![snake gif](https://github.com/parshuramsingh/parshuramsingh/blob/output/github-contribution-grid-snake.svg)
+
+</p>
+
+---
 ## 🌍 My Digital Footprint
 
 <p align="center">
@@ -142,16 +150,6 @@ I’ve engineered blockchain marvels, like a supply chain dApp hitting **200 TPS
   </a>
 </p>
 
-
-<p align="center">
-  
-### 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/parshuramsingh/parshuramsingh/blob/output/github-contribution-grid-snake.svg)
-
-</p>
-
----
 
 <p align="center">
   <em>“Code is poetry, blockchain is trust, and I weave them into solutions that last.”</em>
