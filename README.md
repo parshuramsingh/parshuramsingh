@@ -48,7 +48,7 @@ I’ve engineered blockchain marvels, like a supply chain dApp hitting **200 TPS
 ---
 
 ### ⚡ **My Edge**
-*Fun Fact*: I vanquished **15+ Node.js errors** in one epic night to launch *TradeChain*—proof my resolve fuels innovation!  
+*Fun Fact*: I vanquished **10+ Node.js errors** in one epic night to launch *TradeChain*—proof my resolve fuels innovation!  
 <div align="center">
   <img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="200" alt="Debugging Victory" />
 </div>
