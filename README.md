@@ -84,7 +84,7 @@ I’ve engineered blockchain marvels, like a supply chain dApp hitting **200 TPS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parshuramsingh&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=00FEEF&text_color=FFFFFF&icon_color=61DAFB" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parshuramsingh&theme=radical&hide_border=true&background=1a1a1a&stroke=00FEEF&ring=61DAFB&fire=FF6F61&currStreakLabel=00FEEF" height="180px" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=parshuramsingh&theme=radical&hide_border=true&background=1a1a1a&stroke=00FEEF&ring=61DAFB&fire=FF6F61&currStreakLabel=00FEEF" height="180px" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parshuramsingh&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=1a1a1a&title_color=00FEEF&text_color=FFFFFF" />
