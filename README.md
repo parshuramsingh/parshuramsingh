@@ -17,7 +17,7 @@
 ---
 
 ## **Parshuram Singh**  
-### 🎯 **Front-end & Blockchain Developer | Cybersecurity Trailblazer**  
+### 🎯 **Front-end & Blockchain Developer**  
 *✨ Powered by: JavaScript | React.js | Node.js | Java | Hyperledger Fabric | Smart Contracts ✨*
 
 <div align="center">
