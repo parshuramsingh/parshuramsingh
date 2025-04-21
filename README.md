@@ -59,7 +59,7 @@ I’ve engineered blockchain marvels, like a supply chain dApp hitting **200 TPS
 ## 🧾 Blockchain Project
 
 <p align="center">
-  <a href="https://github.com/parshuramsingh/TradeFinance_Blockchain">
+  <a href="https://github.com/parshuramsingh/Blockchain_TradeFinance">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=parshuramsingh&repo=TradeFinance_Blockchain&theme=radical&show_owner=true&hide_border=true" alt="Blockchain Trade Finance Project" />
   </a>
 </p>
