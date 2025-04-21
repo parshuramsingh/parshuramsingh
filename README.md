@@ -56,16 +56,17 @@ I’ve engineered blockchain marvels, like a supply chain dApp hitting **200 TPS
 ---
 
 ## 🖼️ Signature Projects
-##  Blockchain Project
+## 🧾 Blockchain Project
+
 <p align="center">
-  <a href="https://github.com/parshuramsingh/TradeFinance_Blockchain="TradeFinance_Blockchain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parshuramsingh&repo=Blockchain_TradeFinance&theme=radical&show_owner=true&hide_border=true&cache_seconds=3600&refresh=true&cache_buster=135" alt="Blockchain Trade Finance" onerror="this.src='https://raw.githubusercontent.com/parshuramsingh/parshuramsingh/master/assets/repo-placeholder.png';this.title='Repo Data Unavailable';" />
+  <a href="https://github.com/parshuramsingh/TradeFinance_Blockchain">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parshuramsingh&repo=TradeFinance_Blockchain&theme=radical&show_owner=true&hide_border=true" alt="Blockchain Trade Finance Project" />
   </a>
 </p>
 
 - **Blockchain Trade Finance**  
-  A Hyperledger Fabric-based supply chain dApp for transparent trade finance. Includes chaincode for 8+ functions, benchmarked at 200 TPS with Caliper, and a Node.js client for seamless interaction.  
-  *Tech*: Hyperledger Fabric, Docker, JavaScript
+  A permissioned blockchain dApp built on Hyperledger Fabric for secure, transparent trade finance. Features 8+ custom JavaScript smart contract functions, identity management using Fabric CA, and performance benchmarking with Caliper.  
+  *Tech Stack*: JavaScript, Node.js, Hyperledger Fabric, Docker, Fabric CA
 
 ##  Front-end Project
 <p align="center">
