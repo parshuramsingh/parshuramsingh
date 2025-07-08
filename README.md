@@ -41,14 +41,14 @@ I’m a visionary developer merging sleek **Front-end** designs with robust **Bl
 ---
 
 ### 💡 **My Journey**
-I’ve engineered blockchain marvels, like a supply chain dApp hitting **200 TPS** with **Caliper**, boosting security and efficiency. Now, I’m diving into **Ethereum’s EVM**, **Layer-2 scaling**, and **Solidity** for cross-chain breakthroughs, weaving in **cybersecurity** to shield decentralized ecosystems.
+I’ve engineered blockchain marvels, like a supply chain dApp hitting **8000 TPS** with **Caliper**, boosting security and efficiency. Now, I’m diving into **Ethereum’s EVM**, **Layer-2 scaling**, and **Solidity** for cross-chain breakthroughs, weaving in **cybersecurity** to shield decentralized ecosystems.
 
 **🌟 Goals:** Collaborate on next-gen projects, fusing UI elegance with blockchain resilience and cyber defense.
 
 ---
 
 ### ⚡ **My Edge**
-*Fun Fact*: I vanquished **10+ Node.js errors** in one epic night to launch *TradeChain*—proof my resolve fuels innovation!  
+*Fun Fact*: I vanquished **20+ Node.js errors** in one epic night to launch *TradeChain*—proof my resolve fuels innovation!  
 <div align="center">
   <img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="200" alt="Debugging Victory" />
 </div>
