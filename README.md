@@ -31,12 +31,70 @@
 ### 🚀 **My Craft**
 I’m a visionary developer merging sleek **Front-end** designs with robust **Blockchain** solutions, fortified by **Cybersecurity**. I wield **JavaScript**, **React.js**, **Tailwind CSS**, and **Node.js** to craft scalable web apps, while mastering **Hyperledger Fabric** smart contracts and **Java** for secure back-ends. With **Docker** and **Git**, I blend efficiency with trust, pushing decentralized tech boundaries.
 
-**🌐 Technical Arsenal:**  
-- 🔹 **Front-end**: <span style="color:#61DAFB">JavaScript (ES6+)</span> | <span style="color:#00D8FF">React.js</span> | <span style="color:#38B2AC">Tailwind CSS</span> | HTML | CSS  
-- 🔹 **Back-end & APIs**: <span style="color:#68A063">Node.js</span> | <span style="color:#ED8B00">REST APIs</span> | <span style="color:#FFCA28">Java</span>  
-- 🔹 **Blockchain & Security**: <span style="color:#7A00D6">Hyperledger Fabric</span> | <span style="color:#FF6F61">Smart Contracts</span> | <span style="color:#FF4500">Cybersecurity (Encryption, Audits)</span>  
-- 🔹 **Coding & Logic**: <span style="color:#F4A261">Java</span> | <span style="color:#E76F51">DSA</span> | <span style="color:#D4A017">OOPs</span>  
-- 🔹 **Tools**: <span style="color:#F05032">Git</span> | <span style="color:#181717">GitHub</span> | <span style="color:#2496ED">Docker</span>  
+# ⚡ Skill Set  
+
+### 💻 Programming & Problem-Solving  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-02569B?style=for-the-badge&logo=hackerrank&logoColor=white)
+![OOP](https://img.shields.io/badge/OOPs-0081CB?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+### 🌐 Frontend Development  
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-4CAF50?style=for-the-badge&logo=google&logoColor=white)
+![API](https://img.shields.io/badge/API%20Integration-FF6F00?style=for-the-badge&logo=api&logoColor=white)
+
+---
+
+### ⚙️ Backend Development  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![REST API](https://img.shields.io/badge/RESTful%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![SQL Database](https://img.shields.io/badge/Database-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🔗 Blockchain Development  
+![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-121D33?style=for-the-badge&logo=solidity&logoColor=white)  
+![Fabric SDK](https://img.shields.io/badge/Fabric%20SDK-007396?style=for-the-badge&logo=npm&logoColor=white)
+![Caliper](https://img.shields.io/badge/Caliper-005571?style=for-the-badge&logo=hyperledger&logoColor=white)  
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
+
+---
+
+### 🐳 DevOps & Deployment  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+### 🛠️ Tools & Version Control  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+
+---
+
+### 🖥️ System & Networking  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Computer%20Networking-006600?style=for-the-badge&logo=cisco&logoColor=white)
+![System Admin](https://img.shields.io/badge/System%20Administration-2E86C1?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
 
