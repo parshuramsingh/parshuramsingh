@@ -24,7 +24,7 @@ I also have experience with Node.js, Express, REST APIs, MongoDB, and MySQL, bac
 ---
 
 ## **Parshuram Singh**  
-### 🎯 **Front-end & Blockchain Developer**  
+### 🎯 **Full Stack & Blockchain Developer**  
 *✨ Powered by: JavaScript | React.js | Node.js | Java | Hyperledger Fabric | Smart Contracts ✨*
 
 <div align="center">
