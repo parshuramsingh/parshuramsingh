@@ -13,6 +13,13 @@
 ---
 
 ## 🌌 About Me
+I’m a 2025 B.Tech (IT) graduate and a passionate Frontend and Blockchain Developer with a strong focus on building intuitive web applications and secure, scalable decentralized solutions.
+
+On the frontend, I specialize in JavaScript (ES6+), React.js, Tailwind CSS, HTML, and CSS. During my internship at Suven Consultants and Technology Pvt. Ltd., I contributed to responsive UI development, API integration, and performance optimization.
+
+In the blockchain space, I work with Hyperledger Fabric to develop robust smart contracts and enterprise-grade dApps for use cases like trade finance. I'm proficient with Docker, Git, and collaborative development workflows.
+
+I also have experience with Node.js, Express, REST APIs, MongoDB, and MySQL, backed by a strong foundation in C, Java, Data Structures, and OOPs.
 
 ---
 
