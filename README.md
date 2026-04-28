@@ -13,13 +13,17 @@
 ---
 
 ## 🌌 About Me
-I’m a 2025 B.Tech (IT) graduate and a passionate Frontend and Blockchain Developer with a strong focus on building intuitive web applications and secure, scalable decentralized solutions.
+Parshuram Singh - Blockchain & Backend Developer (Golang, Hyperledger Fabric)
 
-On the frontend, I specialize in JavaScript (ES6+), React.js, Tailwind CSS, HTML, and CSS. During my internship at Suven Consultants and Technology Pvt. Ltd., I contributed to responsive UI development, API integration, and performance optimization.
+I build scalable distributed systems and enterprise blockchain solutions. 
+Experienced in developing smart contracts (chaincode), REST APIs, and full-stack dApps.
 
-In the blockchain space, I work with Hyperledger Fabric to develop robust smart contracts and enterprise-grade dApps for use cases like trade finance. I'm proficient with Docker, Git, and collaborative development workflows.
+🔹 Built TradeChain – a Hyperledger Fabric-based trade finance system with multi-party workflows  
+🔹 Backend: Golang , Node.js, Express, REST APIs  
+🔹 Blockchain: Hyperledger Fabric, Smart Contracts, Distributed Systems   
+🔹 Tools: Docker, Git, Postman  
 
-I also have experience with Node.js, Express, REST APIs, MongoDB, and MySQL, backed by a strong foundation in C, Java, Data Structures, and OOPs.
+Focused on building secure, high-performance backend systems and real-world blockchain applications.
 
 ---
 
